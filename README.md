@@ -12,13 +12,13 @@ This project is a **Technical Documentation Page** built for learning purposes. 
 ## Screenshots
 
 ### Full Page Desktop View
-![Desktop View](Screenshot(40).png)
+![Desktop View](Screenshot%20(40).png)
 
 ### Mobile View with Sidebar
-![Mobile Sidebar](Screenshot(42).png)
+![Mobile Sidebar](Screenshot%20(42).png)
 
 ### Example of a Section in Detail
-![Section Detail](Screenshot(43).png)
+![Section Detail](Screenshot%20(43).png)
 
 ## How to Run
 
